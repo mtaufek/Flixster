@@ -34,7 +34,7 @@ Part 1 was challenging because i was getting used to the basic structures of a S
 
 ### App Walkthough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src=http://g.recordit.co/id7WQ7MVQQ.gif width=250><br>
 
 ### Notes
 Learning the collection view was very interesting as well using the tab controller with the navigation controller
